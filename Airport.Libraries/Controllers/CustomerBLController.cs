@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Airport.Libraries
+namespace Airport.Libraries.Controllers
 {
-    public class Class1
+    class CustomerBlController
     {
+
     }
 }
